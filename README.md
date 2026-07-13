@@ -1,6 +1,6 @@
 # DocLite — AI-Powered Risk-Based Documentation Reduction Engine
 
-Hackathon project for **GOH-UC-019**. Classifies medical device risk under EU MDR 2017/745
+ Classifies medical device risk under EU MDR 2017/745
 Annex VIII, then generates the *minimal compliant documentation set* — with every
 Required / Conditional / **Eliminated** decision justified by a clause citation
 (EU MDR annex/article, ISO 13485:2016 clause, FDA QMSR reference).
